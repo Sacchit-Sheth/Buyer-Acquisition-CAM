@@ -18,7 +18,6 @@ public class FormDTO {
 	@Id
 	private String submissionId;
 
-	private boolean isSubmitted=false;
 	private double turnoverLastYear;
 
 	private double turnoverYearBefore;
